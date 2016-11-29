@@ -120,7 +120,7 @@
 	{{ end }}
 	<script>
         for (const x of document.getElementsByName('rd')) {
-            x.value = location.href;
+            x.value = location.pathname + location.hash;
         }
 	</script>
 	<footer>
