@@ -1,6 +1,6 @@
 nginx_oauth2_proxy
 ========
-Docker build for nginx biased build of oauth2-proxy
+Docker build for nginx based build of oauth2-proxy
 
 
 Usage
